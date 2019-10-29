@@ -35,6 +35,20 @@ body {
     box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.087466);
     width: 380px;
     margin-right: 15px;
+    position: relative;
+}
+
+.rectangle {
+    background-color: #DC3F45;
+    position: absolute;
+    font-weight: bold;
+    width: 147px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    transform: rotate(45deg);
+    top: 0;
+    right: 0;
 }
 
 .price-card__title {

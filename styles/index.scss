@@ -64,7 +64,19 @@ body {
     line-height: 43px;
     text-align: center;
     font-weight: 700;
-    margin-top: 30px;
+    margin: 30px auto 36px;
+}
+
+.price-card__title_basic {
+    width: 100px;
+}
+
+.price-card__title_business {
+    width: 163px;
+}
+
+.price-card__title_webshop {
+    width: 176px;
 }
 
 .price-card__subtitle {

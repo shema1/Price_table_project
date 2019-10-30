@@ -20,7 +20,7 @@ li {
 
 body {
   height: 100vh;
-  background-color: #131b1c;
+  background-color: #000;
 }
 
 .price-table {
@@ -154,7 +154,7 @@ body {
   height: 40px;
   border: none;
   border-radius: 20px;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 17px;
   /* identical to box height */
   text-align: center;

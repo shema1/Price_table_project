@@ -133,7 +133,8 @@ body {
 }
 
 .item__img {
-  padding: 0 22px;
+  padding: 0 21px;
+  margin-top: -3px;
 }
 
 .item__link {

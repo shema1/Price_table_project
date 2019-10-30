@@ -14,7 +14,8 @@ html {
 h2,
 ul,
 li,
-html {
+html,
+body {
   margin: 0;
   padding: 0;
 }

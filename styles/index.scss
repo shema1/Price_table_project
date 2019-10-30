@@ -29,8 +29,7 @@
             .price-table {
                 display: flex;
                 margin-top: 65px;
-                justify-content: center;
-                // margin-left: 135px;
+                // justify-content: center;
             }
             
             .price-card {
@@ -41,6 +40,10 @@
                 position: relative;
                 overflow: hidden;
                 text-align: center;
+            }
+            
+            .price-card:first-child {
+                margin-left: 135px;
             }
             
             .rectangle {

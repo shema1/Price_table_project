@@ -24,13 +24,14 @@
             body {
                 height: 100vh;
                 background-color: #000;
+                margin: 0 auto;
             }
             
             .price-table {
                 display: flex;
-                justify-content: center;
                 margin-top: 65px;
-                margin-left: 135px;
+                // margin-left: 135px;
+                justify-content: center;
             }
             
             .price-card {

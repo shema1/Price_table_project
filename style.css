@@ -41,6 +41,7 @@ body {
   position: relative;
   overflow: hidden;
   text-align: center;
+  margin-top: 129px;
 }
 
 .price-card:first-child {

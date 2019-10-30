@@ -59,6 +59,7 @@ body {
 }
 
 .price-card__title {
+  letter-spacing: -1px;
   font-size: 35px;
   line-height: 43px;
   text-align: center;

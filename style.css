@@ -23,13 +23,11 @@ body {
 body {
   height: 100vh;
   background-color: #000;
-  margin: 0 auto;
 }
 
 .price-table {
   display: flex;
   margin-top: 65px;
-  justify-content: center;
 }
 
 .price-card {

@@ -26,7 +26,7 @@ body {
 .price-table {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .price-card {
@@ -59,7 +59,6 @@ body {
 }
 
 .price-card__title {
-  letter-spacing: -1px;
   font-size: 35px;
   line-height: 43px;
   text-align: center;

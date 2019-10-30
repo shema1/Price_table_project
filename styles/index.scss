@@ -20,14 +20,16 @@
         }
         
         body {
-            height: 100vh;
+            // height: 100vh;
             background-color: #000;
         }
         
         .price-table {
             display: flex;
+            width: 1440px;
+            height: 1000px;
+            background-color: black;
             justify-content: center;
-            margin-top: 40px;
         }
         
         .price-card {

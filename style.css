@@ -11,7 +11,7 @@ html {
   color: #FFFFFF;
 }
 
-h2,
+h1,
 ul,
 li {
   margin: 0;
@@ -19,13 +19,14 @@ li {
 }
 
 body {
+  height: 100vh;
   background-color: #000;
 }
 
 .price-table {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .price-card {
@@ -35,8 +36,6 @@ body {
   margin-right: 15px;
   position: relative;
   overflow: hidden;
-  text-align: center;
-  margin: auto 15px auto 0;
 }
 
 .rectangle {
@@ -61,7 +60,7 @@ body {
 
 .price-card__title {
   display: inline-block;
-  margin: 30px auto 0 auto;
+  margin: 30px auto 37px auto;
 }
 .price-card__title > h2 {
   display: block;

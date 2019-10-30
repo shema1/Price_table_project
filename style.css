@@ -28,6 +28,7 @@ body {
 .price-table {
   display: flex;
   margin-top: 65px;
+  justify-content: center;
 }
 
 .price-card {

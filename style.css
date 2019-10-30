@@ -62,7 +62,7 @@ body {
 
 .price-card__title {
   display: inline-block;
-  margin: 30px auto 37px auto;
+  margin: 30px auto 0 auto;
 }
 .price-card__title > h2 {
   display: block;

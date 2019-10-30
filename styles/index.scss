@@ -31,6 +31,7 @@
                 width: 1440px;
                 height: 1000px;
                 margin-top: 65px;
+                align-items: center;
                 // justify-content: center;
             }
             
@@ -43,7 +44,6 @@
                 position: relative;
                 overflow: hidden;
                 text-align: center;
-                margin-top: 65px;
             }
             
             .price-card:first-child {

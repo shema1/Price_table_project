@@ -22,7 +22,7 @@
             }
             
             body {
-                // height: 100vh;
+                height: 100vh;
                 background-color: #000;
             }
             
@@ -30,6 +30,7 @@
                 display: flex;
                 justify-content: center;
                 margin-top: 65px;
+                margin-left: 135px;
             }
             
             .price-card {

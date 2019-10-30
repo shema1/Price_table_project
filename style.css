@@ -11,7 +11,7 @@ html {
   color: #FFFFFF;
 }
 
-h1,
+h2,
 ul,
 li {
   margin: 0;
@@ -36,6 +36,8 @@ body {
   margin-right: 15px;
   position: relative;
   overflow: hidden;
+  text-align: center;
+  margin: auto 15px auto 0;
 }
 
 .rectangle {
@@ -59,26 +61,19 @@ body {
 }
 
 .price-card__title {
+  display: inline-block;
+  margin: 30px auto 37px auto;
+}
+.price-card__title > h2 {
+  display: block;
+  font-weight: bold;
   font-size: 35px;
   line-height: 43px;
-  text-align: center;
-  font-weight: 700;
-  margin: 30px 0 36px;
 }
-
-.price-card__title_basic {
-  width: 100px;
-  margin: 30px 140px 36px 140px;
-}
-
-.price-card__title_business {
-  width: 163px;
-  margin: 30px 108px 36px 108px;
-}
-
-.price-card__title_webshop {
-  width: 176px;
-  margin: 30px 102px 36px 102px;
+.price-card__title > span {
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
 }
 
 .price-card__subtitle {

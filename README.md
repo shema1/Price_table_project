@@ -9,6 +9,8 @@ https://shema1.github.io/Price_table_project/
 # Technologies:
 For this project I have used the following technologies:
 * HTML
+* CSS3
 * SCSS
-* BEM
-* DRY
+* BEM methodology
+
+

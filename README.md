@@ -1,0 +1,14 @@
+# Price_table_project
+This is landing page layout - Price table.
+Supports only desktop versions
+
+# Preview:
+https://shema1.github.io/Price_table_project/
+![текст](https://lh3.googleusercontent.com/K7EXMb_hsJJs_9fgHnRUKhXqVP3YwX1kiXG-sPYn7dDbDMXMCki4_F9bODXSRU_4RDQEX5UBSMafj6SS9B7axQiC1zfX8vl7qlEWa2qm9-iDErH47pgzAWgGPcjym-8MGfxXbVWyIfWzmcywoJPddhdATdLOYeEeT9unYHA0_su6cCh4TNz6BO0ENv6UWoho8H82IMjP1y_LuqQ_ugNruBrYjy21UZSXieSxEwyFXY4gIQ_zyJ0-dF1lKKly45j_8wvpiRPdi0Y2-MLcE_rFqeLHwvQ0PRM2WfNdg29IxPsQlfoEZ31nHq3opR74lu9CaLnxBu_JnZUKsgUEMTECeVa-9W7NM37eeWbYSUlyBykPSHSRaAvgc5Dk3k2ag_r5MtlcnLYRbFXyq8V5dvvUxav7HpT-2PjIdjKXVaFcPA22gBGKuZnDIm62wXEfJl1IgsgJs7uH_eOrkidrwu9Pc8_RDaVOBY6AWk03n-pDcV9X5LdwWVF5uhEb_CkFiGhvweurfEkqtsd8Sodw_2W7ARyiKmS13P68aNSrvKEx1jwYF8Z5_FWc_SCruIQDsDQFXrWubVLX7VWXNlNU22AdpkdgUtokzP2QzCbk8uQXafY45DKL_xMnA1XlgQgtMWMxSDmkp6KubhpsDCQtOnH4gz8qO9efM1VpfoIQtG5MBiC-IP0tAwjYVyQ=w1249-h800-no)
+
+# Technologies:
+For this project I have used the following technologies:
+* HTML
+* SCSS
+* BEM
+* DRY
